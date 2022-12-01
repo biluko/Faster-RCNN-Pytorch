@@ -1,0 +1,11 @@
+python == 3.10.6
+numpy == 1.23.3
+opencv == 4.6.0
+pillow == 9.2.0
+pycocotools == 2.0.6
+pytorch == 1.12.1
+scipy == 1.9.3
+torchvision == 0.13.1
+tqdm == 4.64.1
+matplotlib == 3.6.2
+hdf5 == 1.12.1
